@@ -16,8 +16,8 @@ Hardware design repository for the Gremlin APC 710 project, containing:
 
 ## Tooling
 
-- Mechanical CAD: FreeCAD
-- Electronic design: KiCAD
+- Mechanical CAD: FreeCAD V1.1.0
+- Electronic design: KiCAD V9.0.6
 
 ## Version Control Notes
 
