@@ -1,0 +1,17 @@
+Font Licensing for Files in This Directory
+
+Font File
+- DejaVuSansCondensed-Bold.ttf
+
+Source and Attribution
+- DejaVu Fonts project
+- Copyright (c) 2003 by Bitstream, Inc. All Rights Reserved.
+- Copyright (c) 2006 by Tavmjong Bah. All Rights Reserved.
+- DejaVu changes are in public domain.
+
+License Terms
+- This font is part of the DejaVu Fonts project and is distributed under the DejaVu Fonts license terms.
+- License reference: https://dejavu-fonts.github.io/License.html
+
+Repository Note
+- If this file is replaced in the future, verify and update the license details accordingly.

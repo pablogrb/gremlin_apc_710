@@ -1,0 +1,38 @@
+# ------------------------------
+# System files and metadata
+# ------------------------------
+
+# macOS Finder metadata
+.DS_Store
+**/.DS_Store
+
+# ------------------------------
+# FreeCAD
+# ------------------------------
+
+# Auto-backup and auto-save files
+*.FCBak
+*.FCStd1
+*.FCStd2
+*.FCStd3
+*.FCStd4
+*.FCStd5
+
+# ------------------------------
+# KiCAD
+# ------------------------------
+# Lock files and local runtime caches
+*.kicad_pcb.lck
+fp-info-cache
+
+# Local project preferences (machine/user specific)
+*.kicad_prl
+*.kicad_prl-bak
+*.kicad_pro-bak
+
+# Auto-generated backup folders
+*-backups/
+
+# KiCAD temporary and recovery artifacts
+*.kicad_sch-bak
+*.kicad_pcb-bak

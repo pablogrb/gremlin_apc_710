@@ -1,0 +1,48 @@
+Font Licensing for Files in This Directory
+
+Font File
+- bamf.ttf
+
+Source and Author
+- 2024 Iconian Fonts - Daniel Zadorozny
+- Website: http://www.iconian.com/
+
+Embedded Metadata
+- Author: Daniel Zadorozny
+- Copyright: 2024 Iconian Fonts - www.iconian.com
+- Version: 2.1 (2024)
+
+Included Family Variants
+- Regular
+- Italic
+- Semi-Italic
+- Super-Italic
+- Leftalic
+- Condensed
+- Condensed Italic
+- Expanded
+- Expanded Italic
+- 3D
+- 3D Italic
+- Laser
+- Laser Italic
+- Halftone
+- Halftone Italic
+- Gradient
+- Gradient Italic
+- Chrome
+- Chrome Italic
+- Title
+- Title Italic
+- Academy
+- Academy Italic
+
+License Terms
+- This font may be freely distributed and is free for all non-commercial uses.
+- Use of the fonts is at your own risk.
+- For commercial use information, visit: http://iconian.com/commercial.html
+- Contact: iconian@aol.com
+
+Repository Note
+- This file summarizes licensing information supplied with the font package.
+- If upstream license terms change, update this file accordingly.
