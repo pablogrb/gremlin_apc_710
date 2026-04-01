@@ -11,8 +11,9 @@
 		(title "GREMLIN APC 710")
 		(date "2026-03-31")
 		(rev "V1.0")
-		(comment 1 "https://creativecommons.org/licenses/by-nc/3.0/")
-		(comment 2 "Creative Commons Attribution-NonCommercial 3.0")
+		(comment 1 "https://github.com/pablogrb/gremlin_apc_710")
+		(comment 2 "https://creativecommons.org/licenses/by-nc/3.0/")
+		(comment 3 "Creative Commons Attribution-NonCommercial 3.0")
 	)
 	(layers
 		(0 "F.Cu" signal)
@@ -14520,7 +14521,7 @@
 		(layer "F.CrtYd")
 		(uuid "ce2a21f6-d475-4f89-90ee-a6bb17442dcb")
 	)
-	(gr_text "GREMLIN APC 710 V1.0\nAutoPilot Controller (APC) panel\nfor the Mini Rack Cockpit system"
+	(gr_text "GREMLIN APC 710 V1.0\nAutoPilot Controller (APC) panel\nfor the Mini Rack Cockpit system\nhttps://github.com/pablogrb/gremlin_apc_710"
 		(at 285 145.5 0)
 		(layer "F.SilkS")
 		(uuid "44247c43-c1ab-40a9-be1e-ae772a72fd5e")
@@ -14851,7 +14852,7 @@
 			)
 		)
 	)
-	(gr_text "GREMLIN APC 710 V1.0\nAutoPilot Controller (APC) panel\nfor the Mini Rack Cockpit system"
+	(gr_text "GREMLIN APC 710 V1.0\nAutoPilot Controller (APC) panel\nfor the Mini Rack Cockpit system\nhttps://github.com/pablogrb/gremlin_apc_710"
 		(at 285 145.5 0)
 		(layer "B.SilkS")
 		(uuid "e040e63f-e7d4-4731-99b6-2249be5a748f")

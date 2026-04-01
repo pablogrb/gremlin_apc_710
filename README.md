@@ -4,6 +4,11 @@ Hardware design repository for the Gremlin APC 710 project, containing:
 - FreeCAD mechanical design files in [CAD](CAD)
 - KiCAD electronics design files in [EDA](EDA)
 
+## GitHub Repository
+
+Project repository:
+https://github.com/pablogrb/gremlin_apc_710
+
 ## Repository Structure
 
 - [CAD](CAD)

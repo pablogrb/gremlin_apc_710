@@ -23,6 +23,7 @@
 # ------------------------------
 # Lock files and local runtime caches
 *.kicad_pcb.lck
+*.kicad_sch.lck
 fp-info-cache
 
 # Local project preferences (machine/user specific)

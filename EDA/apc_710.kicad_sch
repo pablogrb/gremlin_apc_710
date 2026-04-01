@@ -8,8 +8,9 @@
 		(title "GREMLIN APC 710")
 		(date "2026-03-31")
 		(rev "V1.0")
-		(comment 1 "https://creativecommons.org/licenses/by-nc/3.0/")
-		(comment 2 "Creative Commons Attribution-NonCommercial 3.0")
+		(comment 1 "https://github.com/pablogrb/gremlin_apc_710")
+		(comment 2 "https://creativecommons.org/licenses/by-nc/3.0/")
+		(comment 3 "Creative Commons Attribution-NonCommercial 3.0")
 	)
 	(lib_symbols
 		(symbol "Connector_Generic:Conn_02x13_Odd_Even"
