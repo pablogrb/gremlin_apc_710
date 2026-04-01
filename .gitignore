@@ -21,6 +21,9 @@
 # ------------------------------
 # KiCAD
 # ------------------------------
+# Generated files and build artifacts
+*.kicad_pcb.zip
+
 # Lock files and local runtime caches
 *.kicad_pcb.lck
 *.kicad_sch.lck
