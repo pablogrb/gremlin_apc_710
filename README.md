@@ -19,6 +19,11 @@ https://github.com/pablogrb/gremlin_apc_710
   - KiCAD PCB layout (`.kicad_pcb`)
   - KiCAD project files (`.kicad_pro`)
 
+## Project Instructions
+
+- CAD instructions: [docs/CAD_instructions.md](docs/CAD_instructions.md)
+- EDA instructions: [docs/EDA_instructions.md](docs/EDA_instructions.md)
+
 ## Tooling
 
 - Mechanical CAD: FreeCAD V1.1.0

@@ -37,3 +37,13 @@ fp-info-cache
 # KiCAD temporary and recovery artifacts
 *.kicad_sch-bak
 *.kicad_pcb-bak
+_autosave-*.kicad_sch
+_autosave-*.kicad_pcb
+
+# Hash-wrapped autosave/temp artifacts
+# Example: #auto_saved_files#
+# Also catches editor-style temp files like #filename#
+# and swap-like files such as .#filename
+#auto_saved_files#
+\#*#
+.#*
